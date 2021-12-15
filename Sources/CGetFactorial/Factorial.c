@@ -1,7 +1,6 @@
 //
 //  Factorial.c
 //  
-//
 //  Created by Mike Griebling on 2021-12-15.
 //
 
