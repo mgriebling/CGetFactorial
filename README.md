@@ -1,3 +1,3 @@
 # CGetFactorial
 
-A description of this package.
+A simple test package in C.

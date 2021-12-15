@@ -4,7 +4,7 @@
 //  Created by Mike Griebling on 2021-12-15.
 //
 
-#include <stdio.h>
+#include "Factorial.h"
 
 long factorial(long n) {
     long result = 1;
